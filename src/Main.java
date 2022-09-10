@@ -15,6 +15,7 @@ public class Main {
 
         topucret= topucret<20? 20:topucret;
         System.out.println(topucret);
+        
 
        // System.out.println((topucret<20)?"ucret:20":"ucret:"+topucret);
 
